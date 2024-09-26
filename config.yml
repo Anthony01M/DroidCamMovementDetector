@@ -1,0 +1,5 @@
+camera_url: "http://192.168.1.34:4747/video"
+frame_width: 640
+frame_height: 480
+fps: 30
+alarm_sound: "alert/war-siren-mechanical-wave.mp3"
