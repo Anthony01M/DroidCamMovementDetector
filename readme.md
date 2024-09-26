@@ -52,7 +52,7 @@ This project implements a real-time object detection system using YOLO (You Only
     ```
 
 2. **Keyboard Controls**:
-    - Press `t` to toggle alarm mode.
+    - Press `t` to toggle alarm/detection mode.
     - Press `g` to stop the alarm sound.
     - Press `f2` to toggle full-screen mode.
     - Press `q` to quit the application.
